@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a Full Stack Software Developer Student 
+- 👋 Hi, I’m a Full Stack Software Developer 
 - 👀 I’m looking already for new opportunities
 - 🌱 I’m currently learning how to be a great developer at Microverse
 - 💞️ I’m looking to collaborate on open source projects
