@@ -1,6 +1,5 @@
-- 👋 Hi, I’m a Full Stack Software Developer 
+- 👋 Hi, I’m a Full Stack Software Developer student at Microverse 
 - 👀 I’m looking already for new opportunities
-- 🌱 I’m currently learning how to be a great developer at Microverse
 - 💞️ I’m looking to collaborate on open source projects and more
 - 📫 How to reach me here piercel.coder2022@gmail.com
 - I like digital design in Figma
