@@ -33,3 +33,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=piercel2022&show_icons=true&locale=en&layout=compact" alt="piercel2022" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piercel2022&" alt="piercel2022" /></p>
+![Pierre Celestin's GitHub stats](https://github-readme-stats.vercel.app/api?username=piercel2022&show_icons=true&theme=cobalt)
