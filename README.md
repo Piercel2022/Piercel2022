@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 🤝 I’m currently learning at [Microverse Inc.](microverse.org)
+- 🤝 I’m currently learning at [Microverse Inc.](https://github.com/microverseinc)
 
 - 👨‍💻 All of my projects are available at [https://piercel2022.github.io/](https://piercel2022.github.io/)
 
