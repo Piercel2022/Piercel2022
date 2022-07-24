@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **piercel.coder2022@gmail.com**
 
-- ⚡ Fun fact **I am a football fan**
+- ⚡ Fun fact **I am a football fan I can play too**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
