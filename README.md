@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **JavaScript and React Projects**
 
-- 🌱 I’m currently learning **the REACT Framework**
+- 🌱 I’m currently learning **the REACT Library**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
