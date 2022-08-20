@@ -17,7 +17,7 @@
 - 👯 I’m looking to collaborate on **open source projects**
 
 - 🤝 I’m currently learning at [Microverse Inc.](https://github.com/microverseinc)
--  ✍️   I take my time to write some articles [here](https://medium.com/@piercel.coder2022)
+-  ✍️   I take my time to write some articles [in MEDIUM](https://medium.com/@piercel.coder2022)
 
 - 👨‍💻 All of my projects are available at [https://piercel2022.github.io/](https://piercel2022.github.io/)
 
