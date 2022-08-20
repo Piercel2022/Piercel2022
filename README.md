@@ -21,7 +21,7 @@
 
 - 👨‍💻 All of my projects are available at [https://piercel2022.github.io/](https://piercel2022.github.io/)
 
-- 💬 Ask me about **Jest, Flexbox and REACT**
+- 💬 Ask me about **Software development**
 
 - 📫 How to reach me **piercel.coder2022@gmail.com**
 
