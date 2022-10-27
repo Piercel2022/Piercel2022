@@ -10,16 +10,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piercel2022&label=Profile%20views&color=0e75b6&style=flat" alt="piercel2022" /> </p>
 
-- 🔭 I’m currently working on **JavaScript and React Projects**
+- 🔭 I’m currently working on **JavaScript,React and Ruby Projects**
 
-- 🌱 I’m currently learning **the REACT Library**
+- 🌱 I’m currently learning **the REACT Library and Ruby On Rails Frameworks**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
 - 🤝 I’m currently learning at [Microverse Inc.](https://github.com/microverseinc)
 -  ✍️   I take my time to write some articles [in MEDIUM](https://medium.com/@piercel.coder2022)
 
-- 👨‍💻 All of my projects are available at [https://piercel2022.github.io/](https://piercel2022.github.io/)
+- 👨‍💻 My portfolio is available at [https://piercel2022.github.io/](https://piercel2022.github.io/)
 
 - 💬 Ask me about **Software development**
 
