@@ -21,7 +21,7 @@
 
 - 👨‍💻 My portfolio is available at [https://piercel2022.github.io/](https://piercel2022.github.io/)
 
-- 💬 Ask me about **Software development**
+- 💬 Ask me about **Full-Stack Web development**
 
 - 📫 How to reach me **piercel.coder2022@gmail.com**
 
