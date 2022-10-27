@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **JavaScript,React and Ruby Projects**
 
-- 🌱 I’m currently learning **the REACT Library and Ruby On Rails Frameworks**
+- 🌱 I’m especially curious about **the REACT Library and the Ruby On Rails Framework**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
