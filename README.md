@@ -19,7 +19,7 @@
 - 🤝 I’m currently learning at [Microverse Inc.](https://github.com/microverseinc)
 -  ✍️   I take my time to write some articles [in MEDIUM](https://medium.com/@piercel.coder2022)
 
-- 👨‍💻 My portfolio is available  [Here](https://pierrecelestin.netlify.app/)
+- 👨‍💻 My [portfolio ](https://pierrecelestin.netlify.app/) is available 
 
 - 💬 Ask me about **Full-Stack Web development**
 
