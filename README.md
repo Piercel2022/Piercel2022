@@ -5,12 +5,12 @@
 
 
 <h1 align="center">Hi 👋, I'm Pierre Celestin</h1>
-<h3 align="center">A passionate fullstack developer from Cameroon</h3>
+<h3 align="center">A passionate fullstack developer from France</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piercel2022&label=Profile%20views&color=0e75b6&style=flat" alt="piercel2022" /> </p>
 
-- 🔭 I’m currently working on **JavaScript,React and Ruby Projects**
+- 🔭 I’m currently working on **JavaScript,React and Rails Projects**
 
 - 🌱 I’m especially curious about **the REACT Library and the Ruby On Rails Framework**
 
@@ -19,7 +19,7 @@
 - 🤝 I’m currently learning at [Microverse Inc.](https://github.com/microverseinc)
 -  ✍️   I take my time to write some articles [in MEDIUM](https://medium.com/@piercel.coder2022)
 
-- 👨‍💻 My portfolio is available at [https://piercel2022.github.io/](https://piercel2022.github.io/)
+- 👨‍💻 My portfolio is available  [Here](https://pierrecelestin.netlify.app/)
 
 - 💬 Ask me about **Full-Stack Web development**
 
