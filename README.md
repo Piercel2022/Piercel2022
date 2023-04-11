@@ -46,3 +46,4 @@
 
 ![Pierre's GitHub stats](https://github-readme-stats.vercel.app/api?username=piercel2022&show_icons=true&theme=tokyonight)
  
+<p align="left"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
