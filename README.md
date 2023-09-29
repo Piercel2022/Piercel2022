@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piercel2022&label=Profile%20views&color=0e75b6&style=flat" alt="piercel2022" /> </p>
 
-- 🔭 I’m currently working on ** cloudstoragefront**
+- 🔭 I’m currently working on ** side projects**
 
 - 🌱 I’m especially curious about **the REACT Library and the Ruby On Rails Framework**
 
