@@ -17,9 +17,6 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 🤝 I’m a tailwind fan.
--  ✍️   I take my time to write some articles [in MEDIUM](https://medium.com/@piercel.coder2022)
-
 - 👨‍💻 My [portfolio ](https://piercel-moussa.netlify.app/) is available 
 
 - 💬 Ask me about **Full-stack Web development**
