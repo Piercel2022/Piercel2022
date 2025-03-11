@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **piercel.coder2022@gmail.com**
 
-- ⚡ Fun fact **I am a football fan, and I can play too!**
+- 🎤 If I weren’t a developer, I’d be a painter
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
