@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on ** side projects**
 
-- 🌱 I’m especially curious about the Hardest Problem in Programming – Naming things in code (like variables, functions, and classes) is considered one of the most difficult tasks
+- 🌱 I’m especially curious about the **Hardest Problem in Programming**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
