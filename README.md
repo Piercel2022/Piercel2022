@@ -13,7 +13,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piercel2022&label=Profile%20views&color=0e75b6&style=flat" alt="piercel2022" /> </p>
 
-- 🔭 I’m currently working on ** side projects**
+- 🔭 I’m currently working on **side projects**
 
 - 🌱 I’m especially curious about the **Hardest Problem in Programming**
 
@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **piercel.coder2022@gmail.com**
 
-- 🎤 If I weren’t a developer, I’d be a painter
+- 🎤 If I weren’t a **developer**, I’d be a **painter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
