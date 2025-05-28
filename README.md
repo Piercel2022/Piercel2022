@@ -44,7 +44,7 @@
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img  src="https://cdn.svgporn.com/logos/sass.svg" width="90" height="90" /></a>
     <a href="https://code.visualstudio.com/docs/editor/vscode-web" target="_blank" rel="noreferrer"><img   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="90" height="90" /></a><a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="90" height="90" /></a>
   <a href="https://eslint.org/" target="_blank" rel="noreferrer"><img  src="https://cdn.svgporn.com/logos/eslint.svg" width="90" height="90" /></a>
-  <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img  src="https://cdn.svgporn.com/logos/webpack.svg" width="90" height="90" /></a>
+  <a href="https://docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="90" height="90" /></a>
   <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img  src="https://cdn.svgporn.com/logos/netlify.svg" width="90" height="90" /></a>
  </kbd>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=piercel2022&show_icons=true&locale=en&layout=default" alt="piercel2022" /></p>
